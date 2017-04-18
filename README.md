@@ -86,3 +86,8 @@ fi
 
 ### Zsh
 In Zsh, the generated `_` Zsh completion file must be copied to one of the folders under `$FPATH` variable.
+
+
+## Authors
+
+* **[Mert Sarac](https://github.com/saracmert)** - *Initial work*
